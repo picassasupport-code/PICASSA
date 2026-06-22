@@ -76,7 +76,7 @@ For full details and advanced usage:
 [Live Link — ADD HERE]
 
 - 📄 Detailed Manual (PDF):  
-[Click here](https://github.com/danaeynk0208/PICASSA/tree/main/manual_pdf/PICASSA_userManual.pdf)
+[Click here](https://github.com/picassasupport-code/PICASSA/blob/main/Detailed_manual/PICASSA_Detailed_Manual.pdf)
 
 ## 🛠 Built With
 R and RShiny
