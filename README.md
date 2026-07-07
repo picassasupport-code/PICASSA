@@ -52,16 +52,16 @@ A flexible and modular environment for in-depth biological exploration, includin
 
 ## 🧩 Additional Modules
 
-PICASSA includes supplementary tools to extend functionality:
+PICASSA includes supplementary companion tools to extend functionality:
 
-### 🔹 Gene Conversion Module
+### 🔹 Gene Conversion
 Supports input standardization and cross-species analysis in Phase 2:
 - Human ↔ Mouse gene mapping  
 - Ensembl ID conversion  
 - Ortholog detection
 - [Live Link — ADD HERE] 
 
-### 🔹 Pathway Plotter Module
+### 🔹 Pathway Plotter
 Facilitates visualization of enrichment results generated in Phase 2:
 - Visualize enrichment analysis outputs  
 - Generate publication-ready plots  
