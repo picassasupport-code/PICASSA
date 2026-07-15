@@ -6,11 +6,22 @@
   <b>Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis</b>
 </p>
 
-<p align="center"> • 
-  <a href="http://141.76.56.146:8903/" target="_blank" rel="noopener noreferrer">Main page</a> • 
-  <a href="https://youtu.be/rDUwnNYnTO8" target="_blank" rel="noopener noreferrer">Video Overview</a> •
-  <a href="https://github.com/danaeynk0208/PICASSA/issues">Report Bug</a> • 
-  <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>
+<p align="center">
+  <a href="http://141.76.56.146:8903/">
+    🏠 Main page
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://youtu.be/rDUwnNYnTO8">
+    ▶️ Video Overview
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/danaeynk0208/PICASSA/issues">
+    🐞 Report Bug
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/danaeynk0208/PICASSA/issues">
+    💡 Request Feature
+  </a>
 </p>
 
 
