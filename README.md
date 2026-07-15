@@ -7,7 +7,8 @@
 </p>
 
 <p align="center"> •
-  <a href="#">Link</a> • 
+  <a href="http://141.76.56.146:8903/">Main page</a> • 
+  <a href="https://youtu.be/rDUwnNYnTO8">Video Overview</a> • 
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Report Bug</a> • 
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>
 </p>
@@ -19,7 +20,7 @@ PICASSA is a web-based platform designed for interactive, comprehensive, and acc
 
 The platform is designed to reduce technical barriers while maintaining analytical rigor, enabling both computational and non-computational users to perform advanced single-cell analyses.
 
-### ⚙️ Platform Structure
+### ⚙️ Platform structure
 
 PICASSA is organized into two main analytical phases:
 
@@ -50,18 +51,18 @@ A flexible and modular environment for in-depth biological exploration, includin
 
 👉 Outcome: Iterative, hypothesis-driven exploration within a unified interface
 
-## 🧩 Additional Modules
+## 🧩 Companion tools
 
 PICASSA includes supplementary companion tools to extend functionality:
 
-### 🔹 Gene Conversion
+### 🔹 Gene conversion
 Supports input standardization and cross-species analysis in Phase 2:
 - Human ↔ Mouse gene mapping  
 - Ensembl ID conversion  
 - Ortholog detection
 - [Live Link — ADD HERE] 
 
-### 🔹 Pathway Plotter
+### 🔹 Pathway plotter
 Facilitates visualization of enrichment results generated in Phase 2:
 - Visualize enrichment analysis outputs  
 - Generate publication-ready plots  
@@ -71,6 +72,9 @@ Facilitates visualization of enrichment results generated in Phase 2:
 ## 📚 Documentation
 
 For full details and advanced usage:
+
+- 🎬 Video Overview:  
+[Watch here](https://youtu.be/rDUwnNYnTO8)
 
 - 📘 Quick Manual (short & interactive):  
 [Live Link — ADD HERE]
